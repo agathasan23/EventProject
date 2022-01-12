@@ -30,8 +30,8 @@
                         <div class="features-icon">
                             <h2>01</h2>
                             <img src="assets/images/features-icon-1.png" alt="">
-                            <h4>Trend Topic</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <h4>Trending Event</h4>
+                            <p>Temukan berbagai event yang sedang populer dan banyak dibicarakan oleh khalayak ramai</p>
                         
                         </div>
                     </div>
@@ -42,8 +42,8 @@
                         <div class="features-icon">
                             <h2>02</h2>
                             <img src="assets/images/features-icon-2.png" alt="">
-                            <h4>Site Optimization</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <h4>Find Near You</h4>
+                            <p>Platform kami menyediakan informasi event di sekitarmu yang akan berlangsung dalam waktu dekat</p>
                             
                         </div>
                     </div>
@@ -54,8 +54,8 @@
                         <div class="features-icon">
                             <h2>03</h2>
                             <img src="assets/images/features-icon-3.png" alt="">
-                            <h4>Email Design</h4>
-                            <p>Curabitur pulvinar vel odio sed sagittis. Nam maximus ex diam, nec consectetur diam.</p>
+                            <h4>Always Be Informed</h4>
+                            <p>Kami selalu siap menginformasikan Anda sesuai kategori event pilihan Anda</p>
                             
                         </div>
                     </div>
@@ -78,28 +78,28 @@
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                             <img src="assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h4>Vestibulum pulvinar rhoncus</h4>
-                                <p>Please do not redistribute this template ZIP file for a download purpose. You may <a
-                                rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact</a> us for
-                            additional licensing of our template or to get a PSD file.</p>
+                                <h4>Always Up-To-Date</h4>
+                                <p>Platform kami memberikan Anda pengalaman terbaik dalam mencari 
+                                    event dengan selalu menyediakan daftar event yang selalu up-to-date
+                                </p>
                             </div>
                         </li>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.5s">
                             <img src="assets/images/about-icon-02.png" alt="">
                             <div class="text">
-                                <h4>Sed blandit quam in velit</h4>
-                                <p>You can <a rel="nofollow"
-                                        href="https://templatemo.com/tm-540-lava-landing-page">download Lava
-                                        Template</a> from our website. Duis viverra, ipsum et scelerisque placerat, orci
-                                    magna consequat ligula.</p>
+                                <h4>Vast Payment Method Choices</h4>
+                                <p>Transfer bank, mobile banking, internet banking, atau pembayaran non-tunai lain.
+                                    Kami menyediakan banyak metode pembayaran dan Anda hanya perlu memilih yang menjadi 
+                                    favorit Anda</p>
                             </div>
                         </li>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
                             <img src="assets/images/about-icon-03.png" alt="">
                             <div class="text">
-                                <h4>Aenean faucibus venenatis</h4>
-                                <p>Phasellus in imperdiet felis, eget vestibulum nulla. Aliquam nec dui nec augue
-                                    maximus porta. Curabitur tristique lacus.</p>
+                                <h4>Loyalty Membership</h4>
+                                <p>Gunakan platform kami sebagai pencari event Anda setiap hari, dan kami akan
+                                    memastikan Anda menjadi pengguna prioritas dan dapatkan banyak keuntungan
+                                </p>
                             </div>
                         </li>
                     </ul>
@@ -142,36 +142,25 @@
 </section>
 @endsection
 
-@section('regis')
-<footer id="regis">
+@section('contact')
+<footer id="contact">
         <div class="container">
             <div class="footer-content">
                 <div class="row">
                     <!-- ***** Contact Form Start ***** -->
                     <div class=" center-content  col-md-12">
-                        <div class="contact-form">
-                            <form id="contact" action="" method="post">
-                                <div class="row">
-                                    <h1 style="margin: auto">CREATE ACCOUNT</h1>
-                                    <div class="col-lg-12">
-                                        <fieldset>
-                                            <input name="email" type="text" id="email" placeholder="E-Mail Address"
-                                                required="" style="background-color: rgba(250,250,250,0.3);">
-                                        </fieldset>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <fieldset>
-                                            <input  name="message" type="password" id="password" placeholder="Password"
-                                                required="" style="background-color: rgba(250,250,250,0.3);"></input>
-                                        </fieldset>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <fieldset>
-                                            <button type="submit" id="form-submit" class="main-button">Sign Up </button>
-                                        </fieldset>
-                                    </div>
-                                </div>
-                            </form>
+                        <div class="right-content col-md-12">
+                            <h2>Contact Us</em></h2>
+                            <p>Untuk informasi lebih lanjut mengenai platform kami, Anda dapat menghubungi
+                                kami melalui sosial media di bawah ini
+                            </p>
+                            <ul class="social">
+                            <li><a href="https://fb.com/templatemo"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                        </ul>
                         </div>
                     </div>
                     <!-- ***** Contact Form End ***** -->

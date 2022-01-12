@@ -61,7 +61,7 @@ https://templatemo.com/tm-540-lava-landing-page
                             <li class="scroll-to-section"><a href="#about" class="menu-item">About</a></li>
                             <li class="scroll-to-section"><a href="#feature" class="menu-item">Feature</a></li>
                             <li class="scroll-to-section"><a href="#testimonials" class="menu-item">Event</a></li>
-                            <li class="scroll-to-section"><a href="#regis" class="menu-item">Registrasi</a></li>
+                            <li class="scroll-to-section"><a href="#contact" class="menu-item">Contact Us</a></li>
                         </ul>
                        
                         <!-- ***** Menu End ***** -->
@@ -91,7 +91,7 @@ https://templatemo.com/tm-540-lava-landing-page
 
     <div class="left-image-decor"></div>
     <!-- ***** Testimonials Starts ***** -->
-    @yield('regis')
+    @yield('contact')
     <!-- ***** Testimonials Ends ***** -->
 
 
