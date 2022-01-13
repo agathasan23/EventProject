@@ -76,7 +76,7 @@
                 <div class="right-text offset-lg-1 col-lg-6 col-md-12 col-sm-12 mobile-bottom-fix">
                     <ul>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                            <img src="assets/images/about-icon-01.png" alt="">
+                            <img src="assets/images/update.png" alt="" height="100px" width="100px">
                             <div class="text">
                                 <h4>Always Up-To-Date</h4>
                                 <p>Platform kami memberikan Anda pengalaman terbaik dalam mencari 
@@ -85,7 +85,7 @@
                             </div>
                         </li>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.5s">
-                            <img src="assets/images/about-icon-02.png" alt="">
+                            <img src="assets/images/fintech.png" alt=""  height="100px" width="100px">
                             <div class="text">
                                 <h4>Vast Payment Method Choices</h4>
                                 <p>Transfer bank, mobile banking, internet banking, atau pembayaran non-tunai lain.
@@ -94,7 +94,7 @@
                             </div>
                         </li>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
-                            <img src="assets/images/about-icon-03.png" alt="">
+                            <img src="assets/images/priority.png" alt=""  height="100px" width="100px">
                             <div class="text">
                                 <h4>Loyalty Membership</h4>
                                 <p>Gunakan platform kami sebagai pencari event Anda setiap hari, dan kami akan
@@ -117,8 +117,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="center-heading">
                         <h2>LIST <em>EVENT</em></h2>
-                        <p>Suspendisse vitae laoreet mauris. Fusce a nisi dapibus, euismod purus non, convallis odio.
-                            Donec vitae magna ornare, pellentesque ex vitae, aliquet urna.</p>
+                        <p>List Event yang sudah terdaftar melalui aplikasi mobile</p>
                     </div>
                 </div>
 
@@ -170,9 +169,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="sub-footer">
-                        <p>Copyright &copy; 2020 Lava Landing Page
-
-                        | Designed by <a rel="nofollow" href="https://templatemo.com">TemplateMo</a></p>
+                        <p>Copyright &copy; 2022 Eventin Website
+                        </p>
                     </div>
                 </div>
             </div>
